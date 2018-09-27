@@ -1,2 +1,0 @@
-# SimpleTextBoxComponent
-Created with CodeSandbox
